@@ -1,0 +1,211 @@
+{
+    "name": "Foursquare",
+    "description": "Foursquare helps you find the perfect places to go with friends. Discover the best food, nightlife, and entertainment in your area.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/203-foursquare.jpg",
+    "tags": [
+        "api provider",
+        "checkins",
+        "coupons",
+        "deals",
+        "games",
+        "general data",
+        "getting started example",
+        "have api",
+        "have swagger",
+        "historical data api",
+        "local",
+        "locations",
+        "merchants",
+        "pedestal",
+        "places",
+        "relative data",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/foursquare\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Foursquare",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/203-foursquare.jpg",
+            "humanURL": "http:\/\/foursquare.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/foursquare.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/foursquare-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/foursquare-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "http:\/\/apis.io\/apisdef\/legacy\/foursquare.json"
+        },
+        {
+            "type": "Apigee Console",
+            "url": "https:\/\/api.apigee.com\/v1\/consoles\/foursquare\/apidescription?format=internal&ver=1393644831000"
+        },
+        {
+            "type": "Application Management",
+            "url": "https:\/\/foursquare.com\/developers\/apps"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/engineering.foursquare.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/engineering.foursquare.com\/feed\/"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/blog.foursquare.com\/2013\/09\/17\/we-put-a-fresh-coat-of-paint-on-foursquare-for-ios-7\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/blog.foursquare.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/foursquare"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/foursquare"
+        },
+        {
+            "type": "Email",
+            "url": "support@foursquare.com"
+        },
+        {
+            "type": "Email",
+            "url": "ads@foursquare.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@foursquare.com"
+        },
+        {
+            "type": "Email",
+            "url": "security@foursquare.com"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@foursquare.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@foursquare.com"
+        },
+        {
+            "type": "Error Codes",
+            "url": "https:\/\/developer.foursquare.com\/overview\/responses"
+        },
+        {
+            "type": "Foursquare",
+            "url": "http:\/\/foursquare.com\/nasa"
+        },
+        {
+            "type": "Foursquare",
+            "url": "http:\/\/foursquare.com\/yourcommissary"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developer.foursquare.com\/start"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/foursquare"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-04-14-39-19.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-04-14-43-09.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-04-09-55-39.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-04-09-55-48.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-04-03-45-50.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-03-08-27-01.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-03-08-27-09.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-03-08-27-14.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-03-08-27-18.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/203-2019-09-03-08-27-26.json"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/foursquare.com\/legal\/privacy"
+        },
+        {
+            "type": "Rate Limits",
+            "url": "https:\/\/developer.foursquare.com\/overview\/ratelimits"
+        },
+        {
+            "type": "Stack Overflow",
+            "url": "http:\/\/stackoverflow.com\/questions\/tagged\/foursquare"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "https:\/\/developer.foursquare.com\/overview\/community"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/foursquare"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/foursquareapi"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/foursquare.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.foursquare.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/foursquare.com\/apps\/slack"
+        }
+    ]
+}
